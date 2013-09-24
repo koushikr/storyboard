@@ -1,0 +1,13 @@
+{"data" : [{"heading" : "Gateway for sellers to enter into flipkart ecosystem",
+   "module" : "SMS",
+   "title" : "Seller Management System",
+   "description" : "Consolidated interface for seller to interact with relevant modules",
+   "activities" : [{"keys" : ["Onboarding", "Profile Enrichment", "Listing Upload", "Order Management", "Returns", "Payments & Settlement", "Metrics"]}, {"keys" : ["BD", "Customers"]}]},{"heading" : "Gateway for cmd to enter into flipkart ecosystem",
+   "module" : "CMS",
+   "title" : "Content Management System",
+   "description" : "Consolidated interface for seller to interact with relevant modules",
+   "activities" : [{"keys" : ["Onboarding", "Profile Enrichment", "Listing Upload", "Order Management", "Returns", "Payments & Settlement", "Metrics"]}, {"keys" : ["BD", "Customers"]}]},{"heading" : "Gateway for website to enter into flipkart ecosystem",
+   "module" : "W3 Core",
+   "title" : "Website core System",
+   "description" : "Consolidated interface for seller to interact with relevant modules",
+   "activities" : [{"keys" : ["Onboarding", "Profile Enrichment", "Listing Upload", "Order Management", "Returns", "Payments & Settlement", "Metrics"]}, {"keys" : ["BD", "Customers"]}]}]}
