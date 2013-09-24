@@ -1,3 +1,8 @@
+function sleep(milliSeconds){
+	var startTime = new Date().getTime(); // get the current time
+	while (new Date().getTime() < startTime + milliSeconds); // hog cpu
+}
+
 StoryBoard = function(){
 	var singular_keys = ["heading", "module", "title", "description"];
 	var dimensional_keys = ["activities"];
@@ -26,7 +31,6 @@ StoryBoard = function(){
 						var values = item.keys;
 						values.forEach(function(value){
 							self.generateText(content, value);
-							console.log(value);	
 						});
 					});
 				}
