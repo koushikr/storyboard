@@ -1,0 +1,44 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000000" id="svg_2" height="44" width="98" y="67" x="29" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#ede8e8"/>
+  <rect id="svg_3" stroke="#000000" height="44" width="98" y="68" x="145" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#ede8e8"/>
+  <text style="cursor: move; " id="svg_34" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="96" x="313" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">d3</text>
+  <rect id="svg_4" stroke="#000000" height="44" width="98" y="66" x="260" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#ede8e8"/>
+  <rect id="svg_5" stroke="#000000" height="44" width="98" y="66" x="375" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#ede8e8"/>
+  <text style="cursor: move; " id="svg_31" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="97" x="534" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">d1</text>
+  <rect id="svg_6" stroke="#000000" height="44" width="98" y="67" x="487" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#ede8e8"/>
+  <rect stroke="#000000" id="svg_7" height="27" width="568.99997" y="152" x="41" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#ede8e8"/>
+  <rect id="svg_8" stroke="#000000" height="44" width="98" y="209.5" x="35.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#827e7e"/>
+  <rect id="svg_9" stroke="#000000" height="44" width="98" y="208.5" x="152.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#7c7a7a"/>
+  <rect id="svg_10" stroke="#000000" height="44" width="98" y="206.5" x="267.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#7f7a7a"/>
+  <text style="cursor: move; " id="svg_26" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="236" x="431" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">b2</text>
+  <rect id="svg_11" stroke="#000000" height="44" width="98" y="206.5" x="382.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#898585"/>
+  <rect id="svg_12" stroke="#000000" height="44" width="98" y="207.5" x="494.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#827e7e"/>
+  <rect id="svg_13" stroke="#000000" height="44" width="98" y="348.5" x="34.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#a06e6e"/>
+  <rect id="svg_14" stroke="#000000" height="44" width="98" y="347.5" x="151.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#a56f6f"/>
+  <rect id="svg_15" stroke="#000000" height="44" width="98" y="345.5" x="266.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#aa8080"/>
+  <rect id="svg_16" stroke="#000000" height="44" width="98" y="345.5" x="381.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#966969"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_19" y="375" x="540" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">a1</text>
+  <rect id="svg_17" stroke="#000000" height="44" width="98" y="346.5" x="493.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#a57777"/>
+  <rect id="svg_18" stroke="#000000" height="27" width="568.99997" y="285.5" x="37.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" fill="#ede8e8"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_20" y="376" x="542" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">a1</text>
+  <text style="cursor: move; " id="svg_21" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="376" x="428" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">a2</text>
+  <text style="cursor: move; " id="svg_22" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="375" x="314" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">a3</text>
+  <text style="cursor: move; " id="svg_23" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="377" x="203" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">a4</text>
+  <text id="svg_24" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="378" x="83" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">a5</text>
+  <text style="cursor: move; " id="svg_25" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="237" x="544" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">b1</text>
+  <text style="cursor: move; " id="svg_27" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="236" x="428" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">b2</text>
+  <text style="cursor: move; " id="svg_28" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="237" x="313" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">b3</text>
+  <text style="cursor: move; " id="svg_29" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="238" x="200" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">b4</text>
+  <text id="svg_30" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="240" x="82" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">b5</text>
+  <text style="cursor: move; " id="svg_32" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="97" x="535" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">d1</text>
+  <text style="cursor: move; " id="svg_33" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="95" x="423" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">d2</text>
+  <text style="cursor: move; " id="svg_35" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="96" x="310" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">d3</text>
+  <text style="cursor: move; " id="svg_36" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="98" x="193" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">d4</text>
+  <text style="cursor: move; " id="svg_37" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="100" x="76" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">d5</text>
+  <text stroke="#000000" transform="matrix(0.666667 0 0 1 85.6667 0)" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="21" id="svg_39" y="171" x="330.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">layer</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="21" id="svg_40" y="304" x="302" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">layer</text>
+ </g>
+</svg>
